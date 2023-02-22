@@ -183,6 +183,17 @@
         <dict>
             <key>Add</key>
             <dict>
+                <key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
+                <dict>
+                    <key>AAPL,slot-name</key>
+                    <string>Internal@0,31,3</string>
+                    <key>alc-layout-id</key>
+                    <integer>70</integer>
+                    <key>device_type</key>
+                    <string>Audio device</string>
+                    <key>model</key>
+                    <string>Realtek ALC256</string>
+                </dict>
                 <key>PciRoot(0x0)/Pci(0x2,0x0)</key>
                 <dict>
                     <key>AAPL,ig-platform-id</key>
@@ -782,7 +793,7 @@
                 <key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
                 <dict>
                     <key>boot-args</key>
-                    <string>alcid=70 igfxonln=1 -igfxblr -igfxmpc -wegnoegpu -uia_exclude_ss</string>
+                    <string>-v igfxonln=1 -igfxblr -igfxmpc -wegnoegpu -uia_exclude_ss</string>
                     <key>csr-active-config</key>
                     <data>/w8AAA==</data>
                     <key>prev-lang:kbd</key>
