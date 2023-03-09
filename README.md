@@ -18,6 +18,6 @@ Sound
 # Known issue:
 Sleep/Wake
 Trackpad
-
+mini-DP Output
 
 
