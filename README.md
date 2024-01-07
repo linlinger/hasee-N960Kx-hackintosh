@@ -8,6 +8,7 @@ Graphic CardAMD Radeon RX 480
 Wireless Intel Stock wireless  
 
 # About BIOS
+## Credits https://www.bilibili.com/read/cv25098472/
  You can flash the BIOS provided in BIOS folder.This BIOS will has hidden settings unlocked. The bootlogo is Intel logo
  Instruction:
  Flash the BIOS provided in BIOS folder
