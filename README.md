@@ -1,4 +1,4 @@
-# hasee-N960Kx-hackintosh
+# hasee-N960Kx-hackintosh【Deprecated】
  Run macOS On Hasee TX9
 
  # Device Specs
